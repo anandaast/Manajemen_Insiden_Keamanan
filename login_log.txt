@@ -1,0 +1,4 @@
+Attempt 1: LOGIN FAILED from user=admin, password=12345
+Attempt 2: LOGIN FAILED from user=admin, password=admin
+Attempt 3: LOGIN FAILED from user=admin, password=password
+Attempt 4: LOGIN SUCCESS from user=admin, password=admin123
